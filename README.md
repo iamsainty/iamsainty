@@ -1,16 +1,37 @@
-### Hi there 👋
+# 👋 Hello, I'm Priyanshu Chaurasiya!
 
-<!--
-**iamsainty/iamsainty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer, developer, and designer with a focus on creating innovative solutions. Currently pursuing a Bachelor of Technology in Computer Science & Engineering at Babu Banarasi Institute of Technology and Management.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Developer
+- HTML 5
+- CSS 3
+- JavaScript
+- ReactJs
+- Node.js
+
+### Designer
+- Canva
+- Figma
+- UI/UX Design
+- Prototyping
+
+### Programmer
+- C++
+- Python
+- Java
+
+
+## 📫 Contact Me
+
+- LinkedIn: [@iamsianty](https://www.linkedin.com/in/iamsianty/)
+- GitHub: [@iamsianty](https://github.com/iamsianty)
+- Twitter: [@iam__sainty](https://twitter.com/iam__sainty)
+- Instagram: [@iam__sainty](https://www.instagram.com/iam__sainty/)
+- WhatsApp: [+91 8572937042](tel:+918572937042)
+- Email: [ppriyanshuchaurasia@gmail.com](mailto:ppriyanshuchaurasia@gmail.com)
+
+Feel free to reach out to discuss collaborations, projects, or anything else you'd like to talk about!
+
+---
