@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **front-end and back-end frameworks**.
 
-- 👨‍💻 Check out my projects at [priyanshu-writes.web.app](https://priyanshu-writes.web.app).
+- 👨‍💻 Check out my projects at [hey-sainty.web.app](https://hey-sainty.web.app).
 
 - 📫 Reach me at **ppriyanshuchaurasia@gmail.com**.
 
