@@ -1,19 +1,19 @@
-<h1 align="center">Hi there! 👋 I'm Priyanshu Chaurasiya</h1>
-<h3 align="center">MERN Stack Developer | Graphic Designer | Code Enthusiast</h3>
+<h1 align="center">Hi there! I'm Priyanshu Chaurasiya</h1>
+<h3 align="center">Let's build together</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsainty&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainty" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iam__sainty" target="_blank"><img src="https://img.shields.io/twitter/follow/iam__sainty?logo=twitter&style=for-the-badge" alt="iam__sainty" /></a> </p>
+<p align="left"> <a href="https://x.com/iam__sainty" target="_blank"><img src="https://img.shields.io/twitter/follow/iam__sainty?logo=twitter&style=for-the-badge" alt="iam__sainty" /></a> </p>
 
-- 🌱 I’m currently learning **front-end and back-end frameworks**.
+- 🌱 I am a **Full-Stack Developer**.
 
-- 👨‍💻 Check out my projects at [hey-sainty.web.app](https://hey-sainty.web.app).
+- 👨‍💻 Check out my projects at [hey-sainty.vercel.app](https://hey-sainty.vercel.app).
 
 - 📫 Reach me at **ppriyanshuchaurasia@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/iam__sainty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam__sainty" height="25" width="30" /></a>
+  <a href="https://x.com/iam__sainty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam__sainty" height="25" width="30" /></a>
   <a href="https://www.linkedin.com/in/iamsainty/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsainty" height="25" width="30" /></a>
   <a href="https://www.instagram.com/iam__sainty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam__sainty" height="25" width="30" /></a>
   <a href="https://medium.com/@iamsainty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="iamsainty" height="25" width="30" /></a>
